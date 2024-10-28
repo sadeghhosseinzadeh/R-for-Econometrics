@@ -11,4 +11,4 @@ Contact: sadeghhosseinzadehba@gmail.com
  1. Principles of Programming
  2. R Fundamentals
  3. Matrices and How to Work with Them
- 4. Data Frames and How to Work with Them:
+ 4. Data Frames and How to Work with Them
