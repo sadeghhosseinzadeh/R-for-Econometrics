@@ -12,3 +12,8 @@ Contact: sadeghhosseinzadehba@gmail.com
  2. R Fundamentals
  3. Matrices and How to Work with Them
  4. Data Frames and How to Work with Them
+ 5. Data Handling with R Packages and Data Types
+ 6. Basic and Advanced Visualization (Including Functions)
+ 7. Simple Regression
+ 8. Multiple Regression Model
+ 9. Regression Inference
