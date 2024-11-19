@@ -1,6 +1,6 @@
 # R-for-Econometrics
 
-First R Programming Section for Econometrics
+R Programming Section for Econometrics
 Advanced Econometrics I with Prof. Mehrara
 By Sadegh Hossein Zadeh, TA of the Course
 Contact: sadeghhosseinzadehba@gmail.com
