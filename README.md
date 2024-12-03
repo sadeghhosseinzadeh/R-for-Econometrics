@@ -1,7 +1,7 @@
 # R-for-Econometrics
 
 R Programming Section for Econometrics
-Advanced Econometrics I with Prof. Mehrara
+Advanced Econometrics I with Professor. Mehrara
 By Sadegh Hossein Zadeh, TA of the Course
 Contact: sadeghhosseinzadehba@gmail.com
 
@@ -17,3 +17,7 @@ Contact: sadeghhosseinzadehba@gmail.com
  7. Simple Regression
  8. Multiple Regression Model
  9. Regression Inference
+10. Heteroscedasticity
+11. Regression Specification
+12. Panel Data Model
+13. Instrumental Variables and Simultaneous Equations
