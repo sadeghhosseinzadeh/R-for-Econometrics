@@ -19,5 +19,5 @@ Contact: sadeghhosseinzadehba@gmail.com
  9. Regression Inference
 10. Heteroscedasticity
 11. Regression Specification
-12. Panel Data Model
-13. Instrumental Variables and Simultaneous Equations
+12. Diff In Diff 
+13. IV and 2SLS
